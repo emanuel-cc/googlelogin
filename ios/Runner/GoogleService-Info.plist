@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>772251578942-0qfo8h9fth3n0cek1j0u9rjo3ab44f0i.apps.googleusercontent.com</string>
+	<string>936293138295-engqqmgic6ljrkr9qf1ja1mlfrc7ekb0.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.772251578942-0qfo8h9fth3n0cek1j0u9rjo3ab44f0i</string>
+	<string>com.googleusercontent.apps.936293138295-engqqmgic6ljrkr9qf1ja1mlfrc7ekb0</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>772251578942-4au62p97mb3qm14b7eb9fjjageocsscd.apps.googleusercontent.com</string>
+	<string>936293138295-9680pq62jdknsisek7shig2r5p8pgquo.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDLFBEiHsLvvr8x_DB5WCTZVmK3T3ExW2s</string>
+	<string>AIzaSyA92T9pOmoxLRl2T10ZqfkS0DFedB57iWo</string>
 	<key>GCM_SENDER_ID</key>
-	<string>772251578942</string>
+	<string>936293138295</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.loginfacebook</string>
+	<string>com.example.google</string>
 	<key>PROJECT_ID</key>
-	<string>flutterfacebook-976f9</string>
+	<string>flutter-push-9ee2a</string>
 	<key>STORAGE_BUCKET</key>
-	<string>flutterfacebook-976f9.appspot.com</string>
+	<string>flutter-push-9ee2a.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,8 +31,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:772251578942:ios:fa39b6b76a65013f</string>
+	<string>1:936293138295:ios:0c4d8c68340e98ca</string>
 	<key>DATABASE_URL</key>
-	<string>https://flutterfacebook-976f9.firebaseio.com</string>
+	<string>https://flutter-push-9ee2a.firebaseio.com</string>
 </dict>
 </plist>

@@ -15,7 +15,7 @@
       },
       "oauth_client": [
         {
-          "client_id": "772251578942-0hnb7et0fb1qslme0hj8ih1g0mh4ai1d.apps.googleusercontent.com",
+          "client_id": "772251578942-7n282vp829mdjtik2eifch35b57pl85a.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.loginfacebook",
@@ -40,10 +40,54 @@
               "client_type": 3
             },
             {
-              "client_id": "772251578942-0qfo8h9fth3n0cek1j0u9rjo3ab44f0i.apps.googleusercontent.com",
+              "client_id": "772251578942-57j8sjopq4tuudb5fmin25d5tm4jmrlh.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.loginfacebook"
+                "bundle_id": "com.example.logintwitter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772251578942:android:344d5c782345775d",
+        "android_client_info": {
+          "package_name": "com.example.logintwitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772251578942-em5ppj59j18bkebrlega0crnsuo35nea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logintwitter",
+            "certificate_hash": "2b6bfb57d6d1efa9ca7dfc64e8295cc8e8f11f32"
+          }
+        },
+        {
+          "client_id": "772251578942-9vq01pmcinpe0ebel3bg76j6am4t255n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVAP0ys_ys4npdmBBdXav5wNsj_sZL9jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772251578942-9vq01pmcinpe0ebel3bg76j6am4t255n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "772251578942-57j8sjopq4tuudb5fmin25d5tm4jmrlh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.logintwitter"
               }
             }
           ]
