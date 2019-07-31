@@ -30,7 +30,6 @@ class _SignInScreenState extends State<SignInScreen> {
     //Es la respuesta al stream
     return StreamBuilder(
       stream: userBloc.authStatus ,//Lo llamamos desde el archivo bloc_user
-      //initialData: initialData ,
       builder: (BuildContext context, AsyncSnapshot snapshot){
         //snapshot contiene nuestros datos (data) - Objeto User
         if(!snapshot.hasData || snapshot.hasError){

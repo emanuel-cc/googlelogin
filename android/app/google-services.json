@@ -1,94 +1,43 @@
 {
   "project_info": {
-    "project_number": "772251578942",
-    "firebase_url": "https://flutterfacebook-976f9.firebaseio.com",
-    "project_id": "flutterfacebook-976f9",
-    "storage_bucket": "flutterfacebook-976f9.appspot.com"
+    "project_number": "496856131139",
+    "firebase_url": "https://flutter-firebase-49434.firebaseio.com",
+    "project_id": "flutter-firebase-49434",
+    "storage_bucket": "flutter-firebase-49434.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:772251578942:android:fa39b6b76a65013f",
+        "mobilesdk_app_id": "1:496856131139:android:3d07651aca08a7ff",
         "android_client_info": {
-          "package_name": "com.example.loginfacebook"
+          "package_name": "com.autenticacion.googlefirebase"
         }
       },
       "oauth_client": [
         {
-          "client_id": "772251578942-7n282vp829mdjtik2eifch35b57pl85a.apps.googleusercontent.com",
+          "client_id": "496856131139-5alnp9l8flud50m5lo5jjd97olpdvgvb.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.loginfacebook",
+            "package_name": "com.autenticacion.googlefirebase",
             "certificate_hash": "2b6bfb57d6d1efa9ca7dfc64e8295cc8e8f11f32"
           }
         },
         {
-          "client_id": "772251578942-9vq01pmcinpe0ebel3bg76j6am4t255n.apps.googleusercontent.com",
+          "client_id": "496856131139-0ns2r03fhru5d1238c5msi06au31kvtv.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBVAP0ys_ys4npdmBBdXav5wNsj_sZL9jA"
+          "current_key": "AIzaSyApoTDAFWzSNzQ_CU3CQDYdPl_rBwxZkH0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "772251578942-9vq01pmcinpe0ebel3bg76j6am4t255n.apps.googleusercontent.com",
+              "client_id": "496856131139-0ns2r03fhru5d1238c5msi06au31kvtv.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "772251578942-57j8sjopq4tuudb5fmin25d5tm4jmrlh.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.logintwitter"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:772251578942:android:344d5c782345775d",
-        "android_client_info": {
-          "package_name": "com.example.logintwitter"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "772251578942-em5ppj59j18bkebrlega0crnsuo35nea.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.logintwitter",
-            "certificate_hash": "2b6bfb57d6d1efa9ca7dfc64e8295cc8e8f11f32"
-          }
-        },
-        {
-          "client_id": "772251578942-9vq01pmcinpe0ebel3bg76j6am4t255n.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBVAP0ys_ys4npdmBBdXav5wNsj_sZL9jA"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "772251578942-9vq01pmcinpe0ebel3bg76j6am4t255n.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "772251578942-57j8sjopq4tuudb5fmin25d5tm4jmrlh.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.logintwitter"
-              }
             }
           ]
         }
